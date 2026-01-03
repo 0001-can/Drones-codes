@@ -1,0 +1,21 @@
+Phyton drone proje
+-------------------
+Frame
+motors
+propellers
+electric motor controller
+power distribution board
+flight controller
+battery
+receiver
+camera
+video transmitter
+sensors
+pressure
+gps
+ımu
+------------------------
+drone uçma mekaniği
+karşılıklı pervaneler aynı yönlü dönecek diğerleri tersi yönde dönecek.birini torku + yönlü olurken diğerininki - yönlü olacak.
+------------------------
+
